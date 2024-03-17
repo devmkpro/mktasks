@@ -27,7 +27,7 @@ Sistema de gestão de tarefas desenvolvido em Laravel 11
 7. O sistema deve ser flexível, para que possa ser facilmente atualizado e expandido conforme necessário.
 8. O sistema deve ter um banco de dados para armazenar as informações dos alunos e seus agendamentos.
 9. O banco de dados deve ser seguro e confiável e online, para que as informações dos alunos sejam protegidas e os agendamentos sejam feitos corretamente e confirmados apropriadamente.
-10. O sistema deve ser criado com tecnologias modernas e atualizadas, sendo elas, PHP, HTML, CSS, JavaScript, framework Laravel, banco de dados MySQL.
+10. O sistema deve ser criado com tecnologias modernas e atualizadas, sendo elas, HTML, CSS, JavaScript, Laravel, MySQL.
 11. O sistema deve ser testado e validado para garantir que funcione corretamente e que os alunos possam fazer agendamentos sem problemas.
 
 
